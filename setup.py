@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="geometry_toolkit",
+    name="geometry_toolkit_hvj",
     version="1.0.0",
     author="Harsh Vardhan Jha",
     author_email="harshvardhanjha35363@gmail.com",

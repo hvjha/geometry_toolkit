@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="geometry_toolkit_hvj",
-    version="1.0.0",
+    version="1.0.1",
     author="Harsh Vardhan Jha",
     author_email="harshvardhanjha35363@gmail.com",
     description="A Python package providing geometric formulas for 2D shapes and 3D solid figures",

@@ -25,6 +25,7 @@ Usage Example
 
 for single import
 from geometry_toolkit import rectangle_area
+
 print(rectangle_area(4,5))   #20
 
 for multiple import
@@ -36,6 +37,7 @@ from geometry_toolkit import (
 )
 
 when we want to import all
+
 from geometry_toolkit import *
 
 print(rectangle_area(5, 3))          # 15

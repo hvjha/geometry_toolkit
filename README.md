@@ -19,7 +19,7 @@ Installation
 
 Install the package using pip:
 
-pip install geometry_toolkit
+pip install geometry-toolkit-hvj
 
 Usage Example
 
